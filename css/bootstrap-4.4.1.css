@@ -10221,4 +10221,30 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+button {
+	animation: fade 2s ease forwards;
+}
+
+@keyframes fade {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+div {
+	animation: fade 1s ease forwards;
+}
+
+@keyframes fade {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
 /*# sourceMappingURL=bootstrap.css.map */

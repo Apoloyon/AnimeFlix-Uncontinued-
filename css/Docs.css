@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+div.container {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+div.container6{
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+
+
