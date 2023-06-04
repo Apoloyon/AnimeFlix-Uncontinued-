@@ -1,3 +1,3 @@
 # AnimeFlix
-tXBNYCkOtgWqVQNIkchE0JbCG_mok_dr
-#Auth Antiscan.me
+Unfortunatly....This Git has fallen out of command due to its 2 year dormancy....sorry for ur loss....
+More on the way
